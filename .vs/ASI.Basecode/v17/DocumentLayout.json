@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\test\\new\\original\\asibasecode(fix)\\asibasecode\\asi.basecode.webapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\test\\new\\original\\asibasecode(fix)\\asibasecode\\asi.basecode.webapp\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\test\\new\\original\\asibasecode(fix)\\asibasecode\\asi.basecode.webapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\test\\new\\original\\asibasecode(fix)\\asibasecode\\asi.basecode.webapp\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|d:\\test\\new\\original\\asibasecode(fix)\\asibasecode\\asi.basecode.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141FD3B6-645F-4E17-B3DA-055A39639513}|ASI.Basecode.Services\\ASI.Basecode.Services.csproj|solutionrelative:asi.basecode.services\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|d:\\test\\new\\original\\asibasecode(fix)\\asibasecode\\asi.basecode.webapp\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0C34CEC-4ED8-4956-B3C8-CA543F829D7B}|ASI.Basecode.WebApp\\ASI.Basecode.WebApp.csproj|solutionrelative:asi.basecode.webapp\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AsiBasecodeDB/True/SqlTable/dbo.Expense.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AsiBasecodeDB/True/SqlTable/dbo.Category.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Controllers\\SettingsController.cs",
+              "ToolTip": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:29:35.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Views\\Report\\Index.cshtml",
+              "ToolTip": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Views\\Report\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T16:21:45.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAADwv7YAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:20:44.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Controllers\\ExpenseController.cs",
+              "ToolTip": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:12:20.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Expense.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AsiBasecodeDB/True/SqlTable/dbo.Expense.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AsiBasecodeDB/True/SqlTable/dbo.Expense.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-06T16:07:15.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.WebApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.WebApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ASI.Basecode.WebApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAH4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:01:49.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.Services\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ASI.Basecode.Services\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\test\\new\\original\\ASIBasecode(Fix)\\ASIBasecode\\ASI.Basecode.Services\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ASI.Basecode.Services\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:57:53.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Category.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AsiBasecodeDB/True/SqlTable/dbo.Category.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AsiBasecodeDB/True/SqlTable/dbo.Category.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-06T15:56:20.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
